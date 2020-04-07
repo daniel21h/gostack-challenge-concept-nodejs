@@ -19,10 +19,9 @@
 
 <h3>Start</h3>
 <h4>Passo 1:<h4>
-<p>Clone o projeto:</p> 
 
 ```sh 
-git clone https://github.com/daniel21h/node-level1
+$ git clone https://github.com/daniel21h/node-level1
 ```
 
 <h4>Passo 2:</h4>
