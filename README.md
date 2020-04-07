@@ -21,7 +21,9 @@
 <h4>Passo 1:<h4>
 <p>Clone o projeto:</p> 
 
-```sh git clone https://github.com/daniel21h/node-level1```
+```sh 
+git clone https://github.com/daniel21h/node-level1
+```
 
 <h4>Passo 2:</h4>
 <p>Navegue até a pasta criada e abra em seu editor de código.</p>
@@ -34,5 +36,3 @@ $ cd backend
 $ yarn 
 $ yarn start
 ```
-
-<footer align="center">by Daniel Hessel</footer>
