@@ -17,7 +17,7 @@
     <li>uuidv4</li>
   </ul>
 
-<h3>Start</h3>
+<h3>Iniciando aplicação</h3>
 <h4>Passo 1:<h4>
 
 ```sh 
