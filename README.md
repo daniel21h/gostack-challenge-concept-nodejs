@@ -10,7 +10,7 @@
 ## :rocket: Tecnologies
 
 -  [Node.js](https://nodejs.org/)
--  [ExpressLS](https://expressjs.com/pt-br/)
+-  [ExpressJS](https://expressjs.com/pt-br/)
 -  [Nodemon](https://nodemon.io/)
 -  [Insomnia](https://insomnia.rest/)
 -  [Cors](https://www.npmjs.com/package/cors)
